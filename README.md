@@ -1,10 +1,10 @@
 # dmessage
 
-# Generate Asymmetric keys for Jwt token
+## Generate Asymmetric keys for Jwt token
  node generateKeypair.js
  
-# For starting Server
+## For starting Server
   npm start
   
-# For starting Client
+## For starting Client
   npm start
